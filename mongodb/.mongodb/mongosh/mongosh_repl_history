@@ -1,3 +1,0 @@
-db.createCollection('users')
-use mydb
-use study
